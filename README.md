@@ -4,7 +4,7 @@
 - [x] HTML5
 - [x] CSS3
 - [x] jQuery
-- [x]fontawesome
+- [x] fontawesome
 - [ ] Bootstrap
 
 ``` By Qzwini Tset ```
